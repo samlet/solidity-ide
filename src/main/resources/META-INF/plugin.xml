@@ -17,7 +17,7 @@
 
     <change-notes><![CDATA[
       <p>
-        <b>v2.2.1</b>
+        <b>v2.2.1_fix</b>
         <ul>
           <li>
             v2.2.1 fixes a few critical bugs. Are you actively using IntelliJ Solidity plugin for your projects? Please
