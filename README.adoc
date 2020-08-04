@@ -39,7 +39,7 @@ Please attach the screenshot for every issue if possible. It will make the issue
 
 [source,bash]
 ----
-./gradlew runIdea
+./gradlew runIde
 ----
 
 == Contribute
